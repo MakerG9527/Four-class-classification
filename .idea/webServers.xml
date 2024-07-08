@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="b7f04175-ae08-4e8f-855f-2b71fc238f9e" name="坤前服务器" url="http://222.201.56.84">
+        <fileTransfer rootFolder="/home/Raspberry" accessType="SFTP" host="222.201.56.84" port="22" sshConfigId="b9422b08-23e0-4028-83e7-d5256e027e42" sshConfig="Raspberry@222.201.56.84:22 password">
+          <advancedOptions>
+            <advancedOptions controlEncoding="UTF-8" dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" isUseSudo="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
