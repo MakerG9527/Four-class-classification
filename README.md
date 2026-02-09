@@ -9,18 +9,6 @@ This repository contains the code for our paper published in **Applied Surface S
 
 ---
 
-## 📊 Results Preview
-
-View the comprehensive results: **[merged.pdf](./merged.pdf)**
-
-<p align="center">
-  <a href="./merged.pdf">
-    <img src="https://img.shields.io/badge/PDF-View%20Results-red?style=for-the-badge&logo=adobeacrobatreader" alt="View PDF">
-  </a>
-</p>
-
----
-
 ## 🚀 Quick Start
 
 ### 1. Divide the data with different step lengths and create the dataset
